@@ -11,9 +11,9 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const menuCaption = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
+        const menuCaption = `╭━━━〔 *${config.Rdxsigma-v1}* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ 👑 Owner : *${config.OWNER_NAME}*
+┃★│ 👑 Owner : *${config.RDXsIgma}*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 📋 *ᴄʜᴏᴏsᴇ ᴀ ᴄᴀᴛᴇɢᴏʀʏ ᴛᴏ ᴇxᴘʟᴏʀᴇ:*
@@ -39,8 +39,8 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363348739987203@newsletter',
-                newsletterName: config.OWNER_NAME,
+                newsletterJid: '923449907936@s.whatsapp.net',
+                newsletterName: config.Rdxsigma,
                 serverMessageId: 143
             }
         };
